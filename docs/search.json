@@ -9,9 +9,9 @@
   {
     "objectID": "page2.html",
     "href": "page2.html",
-    "title": "Lisa",
+    "title": "Israel Mango",
     "section": "",
-    "text": "import numpy as np\nfor i in np.arange(10):\n    print(i**2)"
+    "text": "Live data from a mango tree in Israel"
   },
   {
     "objectID": "page3.html",
@@ -19,5 +19,12 @@
     "title": "Krusty",
     "section": "",
     "text": "\\[\n\\sqrt{\\frac{x^3}{\\alpha\\beta\\gamma\\delta}}\n\\]"
+  },
+  {
+    "objectID": "page1.html",
+    "href": "page1.html",
+    "title": "Weather Station",
+    "section": "",
+    "text": "Live data from a UTEN weather station using the box"
   }
 ]

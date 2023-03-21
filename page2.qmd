@@ -1,13 +1,7 @@
 ---
-title: "Lisa"
+title: "Israel Mango"
 ---
 
-## this is my friend Lisa
+#### Live data from a mango tree in Israel
 
-![](/archive/figures/lisa.jpeg)
-
-```python
-import numpy as np
-for i in np.arange(10):
-    print(i**2)
-```
+<iframe width="100%" height="2500px" frameborder="0" src="https://industrial.ubidots.com/app/dashboards/public/dashboard/CUI-3Lk6kmz9TmvmV2JczwZY-vbfDAuHfQFeiwAQcYs?datePicker=true&embed=true"></iframe>
