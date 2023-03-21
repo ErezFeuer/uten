@@ -1,0 +1,17 @@
+---
+title: "The box"
+---
+
+### About the box
+
+* Dendrometer
+* Low power
+* temp & humidity
+* Open source
+* versitile sensors
+* Low cost (about $200)
+* flexible cloud
+* each box is a "stand alone" unit
+* works worldwide, no need for cell service
+
+

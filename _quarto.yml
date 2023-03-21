@@ -6,9 +6,11 @@ website:
   title: "uten box"
   navbar:
     right:
+      - the_box.qmd
       - page1.qmd
       - page2.qmd
       - page3.qmd
+      - page4.qmd
 
 format:
   html:
