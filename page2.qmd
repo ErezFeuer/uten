@@ -1,0 +1,13 @@
+---
+title: "Lisa"
+---
+
+## this is my friend Lisa
+
+![](/archive/figures/lisa.jpeg)
+
+```python
+import numpy as np
+for i in np.arange(10):
+    print(i**2)
+```

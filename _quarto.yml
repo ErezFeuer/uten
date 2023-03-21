@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "uten box"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - page1.qmd
+      - page2.qmd
+      - page3.qmd
 
 format:
   html:
-    theme: cosmo
+    include-before-body: _custom_header.html
+    theme:
+      - flatly
+      - custom.scss
     css: styles.css
-    toc: true
+    highlight-style: breezedark
 
 
 
