@@ -1,7 +1,7 @@
 ---
-title: "Homer"
+title: "Weather Station"
 ---
 
-## this is my friend Homer
+### Live data from a UTEN weather station using the box
 
-![](/archive/figures/homer.png)
+<iframe width="100%" height="2300px" frameborder="0" src="https://industrial.ubidots.com/app/dashboards/public/dashboard/fKm8hNZcW40RhT4krdePrBo-FaCljoBFZwvB_O0dQ3c?datePicker=true&embed=true"></iframe>
