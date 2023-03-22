@@ -1,9 +1,0 @@
----
-title: "Krusty"
----
-
-$$
-\sqrt{\frac{x^3}{\alpha\beta\gamma\delta}}
-$$
-
-![](/archive/figures/krusty.png)

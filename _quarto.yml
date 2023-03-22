@@ -7,10 +7,12 @@ website:
   navbar:
     right:
       - the_box.qmd
-      - page1.qmd
-      - page2.qmd
-      - page3.qmd
-      - page4.qmd
+      - weather-station.qmd
+      - text: "Israel"
+        href: israel-mango.qmd
+      - text: "UGA"
+        href: uga.qmd
+
 
 format:
   html:

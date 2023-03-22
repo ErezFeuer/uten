@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "weather-station.html",
+    "href": "weather-station.html",
+    "title": "Weather Station",
+    "section": "",
+    "text": "Live data from a UTEN weather station using the box"
+  },
+  {
+    "objectID": "israel-mango.html",
+    "href": "israel-mango.html",
+    "title": "Israel: mango tree",
+    "section": "",
+    "text": "Live data from a mango tree in Israel"
+  },
+  {
+    "objectID": "uga.html",
+    "href": "uga.html",
+    "title": "UGA tree",
+    "section": "",
+    "text": "Live data from the tree outside here in UGA"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "website name",
@@ -7,38 +28,10 @@
     "text": "new website"
   },
   {
-    "objectID": "page4.html",
-    "href": "page4.html",
-    "title": "UGA tree",
-    "section": "",
-    "text": "Live data from the tree outside here in UGA"
-  },
-  {
     "objectID": "the_box.html",
     "href": "the_box.html",
     "title": "The box",
     "section": "",
     "text": "About the box\n\nDendrometer\nLow power\ntemp & humidity\nOpen source\nversitile sensors\nLow cost (about $200)\nflexible cloud\neach box is a “stand alone” unit\nworks worldwide, no need for cell service"
-  },
-  {
-    "objectID": "page2.html",
-    "href": "page2.html",
-    "title": "Israel Mango",
-    "section": "",
-    "text": "Live data from a mango tree in Israel"
-  },
-  {
-    "objectID": "page3.html",
-    "href": "page3.html",
-    "title": "Krusty",
-    "section": "",
-    "text": "\\[\n\\sqrt{\\frac{x^3}{\\alpha\\beta\\gamma\\delta}}\n\\]"
-  },
-  {
-    "objectID": "page1.html",
-    "href": "page1.html",
-    "title": "Weather Station",
-    "section": "",
-    "text": "Live data from a UTEN weather station using the box"
   }
 ]
