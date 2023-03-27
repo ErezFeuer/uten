@@ -3,14 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "uten box"
+  title: "The Trumpet"
   navbar:
     right:
-      - text: "The Box"
-        href: the_box.qmd
       - weather-station.qmd
       - text: "Israel"
-        href: israel-mango.qmd
+        href: israel.qmd
       - text: "UGA"
         href: uga.qmd
 

@@ -2,6 +2,6 @@
 title: "Weather Station"
 ---
 
-### Live data from a UTEN weather station using the box
+### Live data from a UTEN weather station using the trumpet box
 
 <iframe width="100%" height="2300px" frameborder="0" src="https://industrial.ubidots.com/app/dashboards/public/dashboard/fKm8hNZcW40RhT4krdePrBo-FaCljoBFZwvB_O0dQ3c?datePicker=true&embed=true"></iframe>

@@ -1,9 +1,9 @@
 ---
-title: "Israel: mango tree"
+title: "Israel"
 ---
 
 ![Mango tree in the Rehovot campus of the Hebrew University](/archive/figures/mango-2pics.png)  
 
-#### Live data from a mango tree in Israel
+#### Live data from a mango tree in Rehovot, Israel
 
 <iframe width="100%" height="1800px" frameborder="0" src="https://industrial.ubidots.com/app/dashboards/public/dashboard/CUI-3Lk6kmz9TmvmV2JczwZY-vbfDAuHfQFeiwAQcYs?datePicker=true&embed=true"></iframe>

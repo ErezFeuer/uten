@@ -4,55 +4,48 @@
     "href": "weather-station.html",
     "title": "Weather Station",
     "section": "",
-    "text": "Live data from a UTEN weather station using the box"
-  },
-  {
-    "objectID": "israel-mango.html",
-    "href": "israel-mango.html",
-    "title": "Israel: mango tree",
-    "section": "",
-    "text": "Mango tree in the Rehovot campus of the Hebrew University\n\n\n\nLive data from a mango tree in Israel"
+    "text": "Live data from a UTEN weather station using the trumpet box"
   },
   {
     "objectID": "uga.html",
     "href": "uga.html",
     "title": "UGA tree",
     "section": "",
-    "text": "Live data from the tree outside here in UGA"
+    "text": "Live data from the tree outside the Georgia Center"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website name",
-    "section": "",
-    "text": "new website"
-  },
-  {
-    "objectID": "the_box.html#fundamentals",
-    "href": "the_box.html#fundamentals",
+    "objectID": "index.html#fundamentals",
+    "href": "index.html#fundamentals",
     "title": "   The Trumpet",
     "section": "Fundamentals",
     "text": "Fundamentals\n\n\n\n\n\n\n\nIndependence\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
   },
   {
-    "objectID": "the_box.html#main-components",
-    "href": "the_box.html#main-components",
+    "objectID": "index.html#main-components",
+    "href": "index.html#main-components",
     "title": "   The Trumpet",
     "section": "Main components",
     "text": "Main components\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
   },
   {
-    "objectID": "the_box.html#sensors",
-    "href": "the_box.html#sensors",
+    "objectID": "index.html#sensors",
+    "href": "index.html#sensors",
     "title": "   The Trumpet",
     "section": "Sensors",
     "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI2C\nSerial\nSDI-12"
   },
   {
-    "objectID": "the_box.html#more",
-    "href": "the_box.html#more",
+    "objectID": "index.html#more",
+    "href": "index.html#more",
     "title": "   The Trumpet",
     "section": "More",
-    "text": "More\n\nLow power, basic module can last up to 10 years1 on a non rechargable battery and forever with a rechargable battery and a solar pannel.\nOpen source\nVersatile sensors\nLow cost\nFlexible cloud managment and data routing\nTwo-way comunication: Trumpet  Cloud\nWorks worldwide, 10-year cell service included2"
+    "text": "More\n\nLow power, basic module can last up to 10 years1 on a non rechargable battery and forever with a rechargable battery and a solar pannel.\nVersatile sensors\nLow cost\nFlexible cloud managment and data routing\nTwo-way comunication: Trumpet  Cloud\nWorks worldwide, 10-year cell service included2"
+  },
+  {
+    "objectID": "israel.html",
+    "href": "israel.html",
+    "title": "Israel: mango tree",
+    "section": "",
+    "text": "Mango tree in the Rehovot campus of the Hebrew University\n\n\n\nLive data from a mango tree in Rehovot, Israel"
   }
 ]
