@@ -7,11 +7,11 @@
     "text": "Live data from a UTEN weather station using the trumpet box"
   },
   {
-    "objectID": "uga.html",
-    "href": "uga.html",
-    "title": "UGA tree",
+    "objectID": "athens.html",
+    "href": "athens.html",
+    "title": "Athens, GA, USA",
     "section": "",
-    "text": "Live data from the tree outside the Georgia Center"
+    "text": "Oak tree at the University of Georgia\n\n\n\nLive data from the tree outside the Georgia Center"
   },
   {
     "objectID": "index.html#fundamentals",
@@ -42,17 +42,17 @@
     "text": "More\n\nLow power, basic module can last up to 10 years1 on a non rechargable battery and forever with a rechargable battery and a solar pannel.\nVersatile sensors\nLow cost\nFlexible cloud managment and data routing\nTwo-way comunication: Trumpet  Cloud\nWorks worldwide, 10-year cell service included2"
   },
   {
+    "objectID": "rehovot.html",
+    "href": "rehovot.html",
+    "title": "Rehovot, Israel",
+    "section": "",
+    "text": "Mango tree in the Rehovot campus of the Hebrew University\n\n\n\nLive data from a mango tree in Rehovot, Israel"
+  },
+  {
     "objectID": "media.html",
     "href": "media.html",
     "title": "Media",
     "section": "",
     "text": "Installation of the first Trumpet and dendrometer at UGA, on 27 March 2023."
-  },
-  {
-    "objectID": "israel.html",
-    "href": "israel.html",
-    "title": "Israel",
-    "section": "",
-    "text": "Mango tree in the Rehovot campus of the Hebrew University\n\n\n\nLive data from a mango tree in Rehovot, Israel"
   }
 ]

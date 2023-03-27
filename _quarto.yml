@@ -8,10 +8,10 @@ website:
     logo: archive/figures/trumpet_white.png
     right:
       - weather-station.qmd
-      - text: "Israel"
-        href: israel.qmd
-      - text: "UGA"
-        href: uga.qmd
+      - text: "Rehovot"
+        href: rehovot.qmd
+      - text: "Athens"
+        href: athens.qmd
       - media.qmd
 
 
