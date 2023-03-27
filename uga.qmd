@@ -2,6 +2,8 @@
 title: "UGA tree"
 ---
 
+![](/archive/figures/installation2.jpg)
+
 #### Live data from the tree outside the Georgia Center
 
 <iframe width="100%" height="2000px" frameborder="0" src="https://industrial.ubidots.com/app/dashboards/public/dashboard/Ul_KQiIqio0JVu6sCdcQOQ2Vv90oA-irpeyW2y9Y1dc?datePicker=true&embed=true"></iframe>

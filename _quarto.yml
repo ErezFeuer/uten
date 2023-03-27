@@ -5,12 +5,14 @@ project:
 website:
   title: "The Trumpet"
   navbar:
+    logo: archive/figures/trumpet_white.png
     right:
       - weather-station.qmd
       - text: "Israel"
         href: israel.qmd
       - text: "UGA"
         href: uga.qmd
+      - media.qmd
 
 
 format:

@@ -1,0 +1,11 @@
+---
+title: "Media"
+---
+
+Installation of the first Trumpet and dendrometer at UGA, on 27 March 2023.
+
+{{< video https://youtu.be/Ise1RqvqPyM >}}
+
+![](/archive/figures/installation2.jpg)
+
+![](/archive/figures/installation3.jpg)
