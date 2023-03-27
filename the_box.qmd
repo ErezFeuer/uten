@@ -1,17 +1,66 @@
 ---
-title: "The box"
+title: "<img src='/archive/figures/trumpet.png' alt='trumpet' style='width:2em;vertical-align: top;'> &nbsp; The Trumpet "
 ---
 
-### About the box
+![](/archive/figures/box-01.jpg)
 
-* Dendrometer
-* Low power
-* temp & humidity
+## Fundamentals
+
+::: {layout="[30,70]" layout-valign="center"}
+:::: image_here
+![](/archive/figures/tree-city-icon.jpg)
+::::
+:::: bullets_here
+* Independence
+* Easy to build
+* Easy to maintain
+* Automatic data transfer to the cloud
+* Long term battery life
+::::
+:::
+
+## Main components
+
+::: {layout="[30,70]" layout-valign="center"}
+:::: image_here
+![ESP32 microcontroller](/archive/figures/esp32.jpeg)
+::::
+:::: bullets_here
+* ESP32 microcontroller (the brain)
+* Blues wireless card (cellular connectivity)
+* Printed Circuit Board
+* Adjustable voltage source for sensor powering
+* Battery
+::::
+:::
+
+
+## Sensors
+
+::: {layout="[30,70]" layout-valign="center"}
+:::: image_here
+![EMS Brno Dendrometer](/archive/figures/dendrometer-dr26.jpeg)
+::::
+:::: bullets_here
+* Air Temperature & Humidity
+* Band dendrometer
+* Available sensor comunication protocols:
+    * 4 analog ports
+    * I2C
+    * Serial
+    * SDI-12
+::::
+:::
+
+## More
+
+* Low power, basic module can last up to 10 years[^1] on a non rechargable battery and forever with a rechargable battery and a solar pannel.
 * Open source
-* versitile sensors
-* Low cost (about $200)
-* flexible cloud
-* each box is a "stand alone" unit
-* works worldwide, no need for cell service
+* Versatile sensors
+* Low cost
+* Flexible cloud managment and data routing
+* Two-way comunication: Trumpet {{< fa arrow-right-arrow-left >}} Cloud
+* Works worldwide, 10-year cell service included[^2]
 
-
+[^1]: depends on sensor power needs and sampling rate
+[^2]: provided by Blues Wireles

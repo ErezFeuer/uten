@@ -6,7 +6,8 @@ website:
   title: "uten box"
   navbar:
     right:
-      - the_box.qmd
+      - text: "The Box"
+        href: the_box.qmd
       - weather-station.qmd
       - text: "Israel"
         href: israel-mango.qmd
@@ -22,6 +23,7 @@ format:
       - custom.scss
     css: styles.css
     highlight-style: breezedark
+    fontsize: 1.25em
 
 
 

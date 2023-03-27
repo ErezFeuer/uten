@@ -11,7 +11,7 @@
     "href": "israel-mango.html",
     "title": "Israel: mango tree",
     "section": "",
-    "text": "Live data from a mango tree in Israel"
+    "text": "Mango tree in the Rehovot campus of the Hebrew University\n\n\n\nLive data from a mango tree in Israel"
   },
   {
     "objectID": "uga.html",
@@ -28,10 +28,31 @@
     "text": "new website"
   },
   {
-    "objectID": "the_box.html",
-    "href": "the_box.html",
-    "title": "The box",
-    "section": "",
-    "text": "About the box\n\nDendrometer\nLow power\ntemp & humidity\nOpen source\nversitile sensors\nLow cost (about $200)\nflexible cloud\neach box is a “stand alone” unit\nworks worldwide, no need for cell service"
+    "objectID": "the_box.html#fundamentals",
+    "href": "the_box.html#fundamentals",
+    "title": "   The Trumpet",
+    "section": "Fundamentals",
+    "text": "Fundamentals\n\n\n\n\n\n\n\nIndependence\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
+  },
+  {
+    "objectID": "the_box.html#main-components",
+    "href": "the_box.html#main-components",
+    "title": "   The Trumpet",
+    "section": "Main components",
+    "text": "Main components\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
+  },
+  {
+    "objectID": "the_box.html#sensors",
+    "href": "the_box.html#sensors",
+    "title": "   The Trumpet",
+    "section": "Sensors",
+    "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI2C\nSerial\nSDI-12"
+  },
+  {
+    "objectID": "the_box.html#more",
+    "href": "the_box.html#more",
+    "title": "   The Trumpet",
+    "section": "More",
+    "text": "More\n\nLow power, basic module can last up to 10 years1 on a non rechargable battery and forever with a rechargable battery and a solar pannel.\nOpen source\nVersatile sensors\nLow cost\nFlexible cloud managment and data routing\nTwo-way comunication: Trumpet  Cloud\nWorks worldwide, 10-year cell service included2"
   }
 ]

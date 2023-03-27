@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>uten box - The box</title>
+<title>uten box -  &nbsp; The Trumpet</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,6 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./the_box.html" aria-current="page">
- <span class="menu-text">The box</span></a>
+ <span class="menu-text">The Box</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./weather-station.html">
@@ -112,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">The box</h1>
+<h1 class="title"><img src="./archive/figures/trumpet.png" alt="trumpet" style="width:2em;vertical-align: top;"> &nbsp; The Trumpet</h1>
 </div>
 
 
@@ -127,24 +129,101 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="about-the-box" class="level3">
-<h3 class="anchored" data-anchor-id="about-the-box">About the box</h3>
+<p><img src="./archive/figures/box-01.jpg" class="img-fluid"></p>
+<section id="fundamentals" class="level2">
+<h2 class="anchored" data-anchor-id="fundamentals">Fundamentals</h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="image_here quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<p><img src="./archive/figures/tree-city-icon.jpg" class="img-fluid"></p>
+</div>
+<div class="bullets_here quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
 <ul>
-<li>Dendrometer</li>
-<li>Low power</li>
-<li>temp &amp; humidity</li>
+<li>Independence</li>
+<li>Easy to build</li>
+<li>Easy to maintain</li>
+<li>Automatic data transfer to the cloud</li>
+<li>Long term battery life</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="main-components" class="level2">
+<h2 class="anchored" data-anchor-id="main-components">Main components</h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="image_here quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./archive/figures/esp32.jpeg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">ESP32 microcontroller</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="bullets_here quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<ul>
+<li>ESP32 microcontroller (the brain)</li>
+<li>Blues wireless card (cellular connectivity)</li>
+<li>Printed Circuit Board</li>
+<li>Adjustable voltage source for sensor powering</li>
+<li>Battery</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="sensors" class="level2">
+<h2 class="anchored" data-anchor-id="sensors">Sensors</h2>
+<div class="quarto-layout-panel">
+<div class="quarto-layout-row quarto-layout-valign-center">
+<div class="image_here quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="./archive/figures/dendrometer-dr26.jpeg" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">EMS Brno Dendrometer</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="bullets_here quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
+<ul>
+<li>Air Temperature &amp; Humidity</li>
+<li>Band dendrometer</li>
+<li>Available sensor comunication protocols:
+<ul>
+<li>4 analog ports</li>
+<li>I2C</li>
+<li>Serial</li>
+<li>SDI-12</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="more" class="level2">
+<h2 class="anchored" data-anchor-id="more">More</h2>
+<ul>
+<li>Low power, basic module can last up to 10 years<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> on a non rechargable battery and forever with a rechargable battery and a solar pannel.</li>
 <li>Open source</li>
-<li>versitile sensors</li>
-<li>Low cost (about $200)</li>
-<li>flexible cloud</li>
-<li>each box is a “stand alone” unit</li>
-<li>works worldwide, no need for cell service</li>
+<li>Versatile sensors</li>
+<li>Low cost</li>
+<li>Flexible cloud managment and data routing</li>
+<li>Two-way comunication: Trumpet <i class="fa-solid fa-arrow-right-arrow-left" aria-label="arrow-right-arrow-left"></i> Cloud</li>
+<li>Works worldwide, 10-year cell service included<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
 </ul>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>depends on sensor power needs and sampling rate<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>provided by Blues Wireles<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
