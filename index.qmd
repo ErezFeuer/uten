@@ -54,12 +54,9 @@ title: "<img src='/archive/figures/trumpet.png' alt='trumpet' style='width:2em;v
 
 ## More
 
-* Low power, basic module can last up to 10 years[^1] on a non rechargable battery and forever with a rechargable battery and a solar pannel.
+* Low power, basic module can last up to 10 years^[depends on sensor power needs and sampling rate] on a non rechargable battery and forever with a rechargable battery and a solar pannel.
 * Versatile sensors
 * Low cost
 * Flexible cloud managment and data routing
 * Two-way comunication: Trumpet {{< fa arrow-right-arrow-left >}} Cloud
-* Works worldwide, 10-year cell service included[^2]
-
-[^1]: depends on sensor power needs and sampling rate
-[^2]: provided by Blues Wireles
+* Works worldwide, 10-year cell service included^[provided by Blues Wireless]
