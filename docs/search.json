@@ -32,7 +32,7 @@
     "href": "index.html#sensors",
     "title": "   The Trumpet",
     "section": "Sensors",
-    "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI2C\nSerial\nSDI-12"
+    "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI\\(^2\\)C\nSerial\nSDI-12"
   },
   {
     "objectID": "index.html#more",

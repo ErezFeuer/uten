@@ -46,7 +46,7 @@ title: "<img src='/archive/figures/trumpet.png' alt='trumpet' style='width:2em;v
 * Band dendrometer
 * Available sensor comunication protocols:
     * 4 analog ports
-    * I2C
+    * I$^2$C
     * Serial
     * SDI-12
 ::::
