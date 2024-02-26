@@ -7,11 +7,15 @@ website:
   navbar:
     logo: archive/figures/trumpet_white.png
     right:
-      - weather-station.qmd
-      - text: "Rehovot"
-        href: rehovot.qmd
-      - text: "Athens"
-        href: athens.qmd
+      # - weather-station.qmd
+      # - text: "Rehovot"
+      #   href: rehovot.qmd
+      # - text: "Athens"
+      #   href: athens.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Data"
+        href: widget_figure.ipynb
       - media.qmd
 
 

@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+The Trumpet device stands at the forefront of the Internet of Things (IoT) technology, revolutionizing environmental monitoring with its cutting-edge datalogger capabilities. Crafted to seamlessly integrate with a diverse array of sensors, the Trumpet device offers a robust solution for real-time data transmission. Its unique design ensures that environmental data is sent directly to a cloud database via cellular connection, providing instant access to critical information from any location.
+
+During the design process, our focus was to create a versatile platform that caters to the complex demands of environmental monitoring (for example [UTEN](https://www.uten-network.com/)). The Trumpet device is engineered to support a long battery life, boasting up to 10 years of operation in certain configurations. This remarkable longevity ensures continuous data collection without the need for frequent maintenance, making it an ideal solution for remote or hard-to-reach environments.
+
+Compatibility with Arduino programming opens the door to customizations and adaptations, allowing users to tailor the device to their specific monitoring needs. Unlike traditional data logging approaches that rely on cumbersome wiring to a big datalogger, the Trumpet device simplifies environmental monitoring. Its discrete form factor and wireless capabilities mean that it can be deployed in a variety of settings without drawing attention or requiring extensive installation efforts.
+
+The Trumpet device embodies my commitment to innovation, offering a reliable, efficient, and user-friendly platform for environmental monitoring. Its design not only reduces the physical footprint of data logging equipment but also empowers users to keep track of environmental conditions remotely. With the Trumpet device, we are proud to provide a solution that enhances our ability to protect and understand the environment around us.
+
+For more information contact the developer  
+**Erez Feuer** - `erez.feuer@mail.huji.ac.il`
+

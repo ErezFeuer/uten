@@ -18,21 +18,21 @@
     "href": "index.html#fundamentals",
     "title": "   The Trumpet",
     "section": "Fundamentals",
-    "text": "Fundamentals\n\n\n\n\n\n\n\nIndependent units\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
+    "text": "Fundamentals\n\n\n\n\n\n\n\n\n\n\nIndependent units\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
   },
   {
     "objectID": "index.html#main-components",
     "href": "index.html#main-components",
     "title": "   The Trumpet",
     "section": "Main components",
-    "text": "Main components\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
+    "text": "Main components\n\n\n\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
   },
   {
     "objectID": "index.html#sensors",
     "href": "index.html#sensors",
     "title": "   The Trumpet",
     "section": "Sensors",
-    "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI\\(^2\\)C\nSerial\nSDI-12"
+    "text": "Sensors\n\n\n\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI\\(^2\\)C\nSerial\nSDI-12"
   },
   {
     "objectID": "index.html#more",
@@ -54,5 +54,26 @@
     "title": "Media",
     "section": "",
     "text": "Installation of the first Trumpet and dendrometer at UGA, on 27 March 2023.\n\n\n\n\n\n\nErez presenting the trumpet at the 1st UTEN workshop"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "   The Trumpet",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\ndepends on sensor power needs and sampling rate↩︎\nprovided by Blues Wireless↩︎"
+  },
+  {
+    "objectID": "widget_figure.html",
+    "href": "widget_figure.html",
+    "title": "Boston prototype tree",
+    "section": "",
+    "text": "A maple tree in Boston is the first prototype tree to have a Trumpet installed on it. Here is the data received from it remotely.\n\n\nLast data update: 2024-02-26\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\nThe tree\n\n\n\nLocation\n\n\n&lt;a href=\"https://www.gps.ie/\"&gt;gps vehicle tracker&lt;/a&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "The Trumpet device stands at the forefront of the Internet of Things (IoT) technology, revolutionizing environmental monitoring with its cutting-edge datalogger capabilities. Crafted to seamlessly integrate with a diverse array of sensors, the Trumpet device offers a robust solution for real-time data transmission. Its unique design ensures that environmental data is sent directly to a cloud database via cellular connection, providing instant access to critical information from any location.\nDuring the design process, our focus was to create a versatile platform that caters to the complex demands of environmental monitoring (for example UTEN). The Trumpet device is engineered to support a long battery life, boasting up to 10 years of operation in certain configurations. This remarkable longevity ensures continuous data collection without the need for frequent maintenance, making it an ideal solution for remote or hard-to-reach environments.\nCompatibility with Arduino programming opens the door to customizations and adaptations, allowing users to tailor the device to their specific monitoring needs. Unlike traditional data logging approaches that rely on cumbersome wiring to a big datalogger, the Trumpet device simplifies environmental monitoring. Its discrete form factor and wireless capabilities mean that it can be deployed in a variety of settings without drawing attention or requiring extensive installation efforts.\nThe Trumpet device embodies my commitment to innovation, offering a reliable, efficient, and user-friendly platform for environmental monitoring. Its design not only reduces the physical footprint of data logging equipment but also empowers users to keep track of environmental conditions remotely. With the Trumpet device, we are proud to provide a solution that enhances our ability to protect and understand the environment around us.\nFor more information contact the developer\nErez Feuer - erez.feuer@mail.huji.ac.il"
   }
 ]
