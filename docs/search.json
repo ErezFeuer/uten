@@ -32,28 +32,28 @@
     "href": "widget_figure.html",
     "title": "Boston prototype tree",
     "section": "",
-    "text": "A maple tree in Boston is the first prototype tree to have a Trumpet installed on it. Here is the data received from it remotely.\n\n\nLast data update: 2024-06-24\n\n\n\n\n                                                \n\n\n\n\n\n\n\n\nThe tree\n\n\n\nLocation\n\n\n&lt;a href=\"https://www.gps.ie/\"&gt;gps vehicle tracker&lt;/a&gt;"
+    "text": "A maple tree in Boston is the first prototype tree to have a Trumpet installed on it. Here is the data received from it remotely.\n\n\nLast data update: 2024-09-19\n\n\n\n\n\n                                                \n\n\n\n\n\nThe tree\n\n\n\nLocation\n\n\n&lt;a href=\"https://www.gps.ie/\"&gt;gps vehicle tracker&lt;/a&gt;"
   },
   {
     "objectID": "index.html#fundamentals",
     "href": "index.html#fundamentals",
     "title": "   The Trumpet",
     "section": "Fundamentals",
-    "text": "Fundamentals\n\n\n\n\n\n\n\n\n\n\nIndependent units\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
+    "text": "Fundamentals\n\n\n\n\n\n\n\nIndependent units\nEasy to build\nEasy to maintain\nAutomatic data transfer to the cloud\nLong term battery life"
   },
   {
     "objectID": "index.html#main-components",
     "href": "index.html#main-components",
     "title": "   The Trumpet",
     "section": "Main components",
-    "text": "Main components\n\n\n\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
+    "text": "Main components\n\n\n\n\n\n\nESP32 microcontroller\n\n\n\n\n\nESP32 microcontroller (the brain)\nBlues wireless card (cellular connectivity)\nPrinted Circuit Board\nAdjustable voltage source for sensor powering\nBattery"
   },
   {
     "objectID": "index.html#sensors",
     "href": "index.html#sensors",
     "title": "   The Trumpet",
     "section": "Sensors",
-    "text": "Sensors\n\n\n\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI\\(^2\\)C\nSerial\nSDI-12"
+    "text": "Sensors\n\n\n\n\n\n\nEMS Brno Dendrometer\n\n\n\n\n\nAir Temperature & Humidity\nBand dendrometer\nAvailable sensor comunication protocols:\n\n4 analog ports\nI\\(^2\\)C\nSerial\nSDI-12"
   },
   {
     "objectID": "index.html#more",
