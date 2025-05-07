@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Trumpet"
+  navbar:
+    logo: archive/figures/trumpet_white.png
+    right:
+      # - weather-station.qmd
+      # - text: "Rehovot"
+      #   href: rehovot.qmd
+      # - text: "Athens"
+      #   href: athens.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Data"
+        href: widget_figure.ipynb
+      - media.qmd
+
+
+format:
+  html:
+    include-before-body: _custom_header.html
+    theme:
+      - flatly
+      - custom.scss
+    css: styles.css
+    highlight-style: breezedark
+    fontsize: 1.25em
+
+
+
